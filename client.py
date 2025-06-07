@@ -7,10 +7,8 @@ Shop Titans text classification API and receiving structured responses.
 """
 
 import io
-import time
 from typing import Optional, Dict, Any
 from dataclasses import dataclass
-from datetime import datetime
 
 import requests
 from PIL import Image

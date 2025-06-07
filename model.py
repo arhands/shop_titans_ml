@@ -1,6 +1,5 @@
 from __future__ import annotations
 from typing import Any, Literal
-import cv2
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from pickle import dump, load

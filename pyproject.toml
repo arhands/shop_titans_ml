@@ -9,4 +9,5 @@ dependencies = [
     "pillow>=11.2.1",
     "pyscreeze>=1.0.1",
     "scikit-learn>=1.6.1",
+    "requests>=2.31.0",
 ]
